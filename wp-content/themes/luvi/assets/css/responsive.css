@@ -1,0 +1,168 @@
+@media (min-width: 1281px) and (max-width: 1600px) {
+#sobre .txt{
+  padding: 0 0 0 20em;
+}
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+#sobre .txt{
+  padding: 0 0 0 10em;
+}
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+.navbar ul li a{
+  margin-left: 0px;
+  font-size: 16px;
+}
+#sobre .col-md-6{
+  padding-right: 0px;
+  padding-left: 0px;
+}
+#sobre .txt{
+  padding: 0 0 0 10em;
+}
+#sobre .txt h2{
+  font-size: 30px;
+}
+#sobre .txt p{
+  font-size: 14px;
+}
+#solucoes .card-body {
+  padding: 0 1.5em;
+}
+#solucoes .card-body h4{
+  font-size: 20px;
+}
+#solucoes .card-body p{
+  font-size: 14px;
+}
+.blog .title{
+  font-size: 18px;
+}
+.blog p.description{
+  font-size: 14px;
+}
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+.navbar .social-part{
+  display: none;
+}
+.navbar ul li a{
+  margin-left: 0;
+}
+.navbar-scroll {
+  padding: 0.5rem 1rem;
+}
+.carousel-item {
+  height: 50vh;
+  background-size: cover;
+  background-position: center center;
+}
+.carousel-item h1 {
+  margin-top: 1em;
+  font-size: 30px;
+}
+#sobre .txt{
+  padding: 0 2em;
+  text-align: justify;
+  text-align-last: center;
+}
+#sobre h2{
+  font-size: 35px;
+  padding-bottom: .5em;
+}
+#sobre p{
+  font-size: 18px;
+}
+#slim-banner .container{
+  padding: 40px 0;
+  text-align: center;
+}
+#slim-banner h3{
+  font-size: 25px;
+}
+#solucoes .card{
+  text-align: center;
+  padding: 0 2em;
+}
+#solucoes .card-img-top{
+  margin: 0 auto;
+}
+#atuacao{
+  padding: 4em 2em;
+}
+#atuacao .card .card-body p{
+  text-align: center;
+}
+#normas h2{
+  font-size: 35px;
+}
+#normas .card-body {
+  text-align: center;
+}
+#contato{
+  background: #fff;
+  padding: 3em .5em;
+}
+#contato h2{
+  font-size: 35px;
+}
+.btn_blue{
+  padding: 8px 50px;
+}
+.btn-block {
+  width: 93%;
+  margin: 0 auto;
+  text-align: center;
+}
+form.wpcf7-form.init {
+  padding: 0 1em;
+}
+#blog-page h2 {
+  text-align: center;
+  padding-bottom: .5em;
+}
+#blog-page #search-input {
+  text-align: center;
+  margin: .5em auto;
+  float: none;
+}
+#blog-page article {
+  margin: 0 1em;
+}
+#blog-single .share{
+  padding: 0 1em;
+}
+#blog-single .post-tags {
+  padding: 1em 1em 0 1em;
+}
+#blog-single .blog-posts-nav {
+  padding: 0 1em;
+  margin: 38px auto;
+}
+#blog-single h2.related-posts {
+  padding: 0 1em;
+}
+.post-single .single-header {
+  left: 10px;
+}
+.post-single p{
+  padding: 0 1em;
+}
+.post-single blockquote > p {
+  padding: 0 1em;
+  margin-bottom: 8px;
+  font-size: 20px;
+}
+#search .list-group {
+  margin: 0 1em 20px 1em;
+}
+.carousel-slider.arrows-outside .owl-nav .owl-prev {
+  left: 0 !important;
+}
+.carousel-slider.arrows-outside .owl-nav .owl-next {
+  right: 0 !important;
+}
+}
